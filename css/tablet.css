@@ -1,0 +1,9 @@
+@media screen and (max-width: 992px) {
+  .h2-center {
+    display: none;
+  }
+  .container-3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}

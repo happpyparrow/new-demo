@@ -1,0 +1,47 @@
+@media screen and (max-width: 576px) {
+  .container-1 {
+    flex-direction: column;
+    text-align: start;
+  }
+  #user1 {
+    border: none;
+  }
+  #user2 {
+    border: none;
+  }
+  .container-3 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .container-4 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .ce-1 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .cc1 {
+    border-right: none;
+    padding-bottom: 50px;
+    border-bottom: 2px solid #d6c08d;
+  }
+  .ce-2 {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .cc3 {
+    padding-bottom: 50px;
+    border-bottom: 2px solid #d6c08d;
+  }
+
+  .container-project {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  body {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
